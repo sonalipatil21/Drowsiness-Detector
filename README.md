@@ -18,6 +18,10 @@ in a historical file (CSV type) and datapoints from that particular session will
 the user. Data graphing will be the method of data communication and the user has the ability to
 select what kind of graph(s) they want to see.
 
+### Responsibilities
+- Developed blink detection feature for monitoring eye closures that exceeded a user configured threshold to recognize, alert, and log user drowsiness
+- Implemented analytics and visualization feature that used data collected during user monitoring session to generate various graphs and reports and provide statistics on drowsiness
+- Created GUI windows and front-end components using Tkinter through multiple design reviews and UI validations
 
 ### Components
 ##### Hardware
