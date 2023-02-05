@@ -2,11 +2,6 @@ Executable: https://drive.google.com/file/d/1LWwjalaidxcK_DKf6G6I47KXj67kkBnR/vi
 
 # Drowsiness Detector
 
-### Contributors:
-    * Sonali Patil -- s_patil1@u.pacific.edu
-    * Jacob Angulo -- j_angulo1@u.pacific.edu
-    * Richard Shin -- r_shin2@u.pacific.edu
-
 ### Description
 The Drowsiness Detector is a webcam enabled software-system that can detect a user's drowsiness
 and report time specific data to the user at the end of recording. Drowsiness is determined via
